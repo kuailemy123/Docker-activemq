@@ -1,7 +1,7 @@
 ### ActiveMQ
 ---
 [ActiveMQ](http://activemq.apache.org)是Apache出品,最流行的,能力强劲的开源消息总线。
-
+包含mysql-connector-java和druid包。
 
 ### 变量
 ---
